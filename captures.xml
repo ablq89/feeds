@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ablq89 - Captures</title>
+    <link>https://ablq89.github.io/feeds/</link>
+    <description>Hand-picked rows from my capture sheet</description>
+    <lastBuildDate>Sat, 20 Jun 2026 15:14:53 GMT</lastBuildDate>
+    <atom:link href="https://ablq89.github.io/feeds/" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal Entry: 2026-04-02 Gym Weak Spots &amp; Machines</title>
+      <link>https://www.perplexity.ai/search/bebd3280-156c-4d8e-af8d-e991519e21bf</link>
+      <guid isPermaLink="true">https://www.perplexity.ai/search/bebd3280-156c-4d8e-af8d-e991519e21bf</guid>
+      <pubDate>Wed, 01 Apr 2026 23:00:00 GMT</pubDate>
+      <description>Went to the gym at Broadwater Farm, enjoyed a quiet session, and noticed significant weakness in side movements</description>
+      <category>gym</category>
+      <category>fitness</category>
+      <category>lateral-weakness</category>
+      <category>machines</category>
+      <category>health</category>
+    </item>
+  </channel>
+</rss>
